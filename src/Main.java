@@ -1,5 +1,3 @@
-
-
 public class Main {
     private static String productFormatter(String product_name, String date) {
         String string = product_name.replace(" ", "_") + "_" + date;
